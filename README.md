@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Building a SIEM with Suricata and Elastic Stack</b>
-  - [Building a Suricata SIEM for a NextCloud Server](https://github.com/MysticalMark88/TBA)
+- <b>Installing Suricata IDS to monitor traffic on a cloud server</b>
+  - [Installing and testing Suricata to protect a NextCloud server](https://github.com/MysticalMark88/TBA)
 - <b>Brute Force SSH attack Mitigation with Fail2Ban</b>
   - [Setting up Fail2Ban on a Cloud Server](https://github.com/MysticalMark88/TBA)
 - <b>Python</b>
