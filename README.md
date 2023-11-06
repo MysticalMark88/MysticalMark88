@@ -6,12 +6,8 @@
   - [Building a Suricata SIEM for a NextCloud Server](https://github.com/MysticalMark88/TBA)
 - <b>Brute Force SSH attack Mitigation with Fail2Ban</b>
   - [Setting up Fail2Ban on a Cloud Server](https://github.com/MysticalMark88/TBA)
-- <b>Packet Inspection</b>
-  - [Packet Inspection With tcpdump and Wireshark](https://github.com/MysticalMark88/TBA)
 - <b>Python</b>
-  - [Python Basics Project](https://github.com/MysticalMark88/TBA)
-- <b>SQL</b>
-  - [SQL Basics Project](https://github.com/MysticalMark88/TBA)
+  - [Python Basics(Google Doc)](https://docs.google.com/document/d/19RQz4CpuSSeoVfqXth9eSWwR1aTN_23rJlqRNjRPlD4/edit?usp=sharing&resourcekey=0-FP1QVNdWPAhowu3GigNX1w)
  
 <h2>📜 Certifications:</h2>
 
