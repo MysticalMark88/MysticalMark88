@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Installing Suricata IDS to monitor traffic on a cloud server</b>
-  - [Installing and testing Suricata to protect a NextCloud server](https://github.com/MysticalMark88/TBA)
+  - [Installing and testing Suricata to protect a NextCloud server](https://github.com/MysticalMark88/InstallSuricata)
 - <b>Brute Force SSH attack Mitigation with Fail2Ban</b>
   - [Setting up Fail2Ban on a Cloud Server](https://github.com/MysticalMark88/TBA)
 - <b>Python</b>
