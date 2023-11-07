@@ -12,7 +12,7 @@
 <h2>📜 Certifications:</h2>
 
 - <b>Google Cybersecurity Professional Certificate</b>
-<img src="https://i.imgur.com/fsuEX6D.png" height="20%" width="20%" alt="Certificate Completetion Image"/>
+<img src="https://i.imgur.com/LyJdMfp.png" height="50%" width="50%" alt="Certificate Completetion Image"/>
 
 
 
