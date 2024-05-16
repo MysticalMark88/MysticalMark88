@@ -16,7 +16,8 @@
 <h2>📜 Certifications:</h2>
 
 - <b>Google Cybersecurity Professional Certificate</b>
-- <b>Currently Pursuing CompTIA Security+</b>
+- <b>CompTIA Security+</b>
+- [Credly Cert Badge Profile](https://www.credly.com/users/mark-reinbold/badges#)
 <!--<img src="https://i.imgur.com/LyJdMfp.png" height="50%" width="50%" alt="Certificate Completetion Image"/>-->
 
 
