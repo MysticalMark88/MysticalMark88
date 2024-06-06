@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Installing, configuring and using together: ElasticSearch, Kibana & Apache NiFi on an Ubuntu Server</b>
+  - [Use ElasticSearch/Kibana Together with Apache NiFi](https://github.com/cyb3rmark/using-elk-with-nifi)
 - <b>Installing Suricata IDS to monitor traffic on a cloud server</b>
   - [Installing and testing Suricata to protect a NextCloud server](https://github.com/MysticalMark88/InstallSuricata)
 - <b>Brute Force SSH attack Mitigation with Fail2Ban</b>
